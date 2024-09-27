@@ -25,13 +25,13 @@
 ## 截圖
 
 
-*擷取資料*
+*擷取資料*  
 ![Capture Data](https://github.com/Hukuma0311/RPA-Demo/blob/main/pic/Sequence.jpg?raw=true)
 
-*資料整理*
+*資料整理*  
 ![Data Process](https://github.com/Hukuma0311/RPA-Demo/blob/main/pic/Excel%20Process%20Scope.jpg?raw=true)
 
-*成果*
+*成果*  
 ![Final Result](https://github.com/Hukuma0311/RPA-Demo/blob/main/pic/Final%20Result.png?raw=true)
 
 ## 前置作業
@@ -60,4 +60,4 @@
 pause
 ```
 
-8. Save it and Well done it might work like a charm!
+8. 存檔，恭喜您，應該就可以正式使用了！
