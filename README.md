@@ -25,7 +25,6 @@ In theory, You can capture companies as many as possible. I choose 3 companies f
 
 ## Screenshots
 
-
 *Capture Data*
 ![Capture Data](https://github.com/Hukuma0311/RPA-Demo/blob/main/pic/Sequence.jpg?raw=true)
 
@@ -33,6 +32,9 @@ In theory, You can capture companies as many as possible. I choose 3 companies f
 ![Data Process](https://github.com/Hukuma0311/RPA-Demo/blob/main/pic/Excel%20Process%20Scope.jpg?raw=true)
 *Final Result*
 ![Final Result](https://github.com/Hukuma0311/RPA-Demo/blob/main/pic/Final%20Result.png?raw=true)
+
+## Prework
+You will need to install UiPath Studio First enable to use the process. If you don't have install it on your PC, you can access to [UiPath Automation CloudTM for Community](https://account.uipath.com/login?state=hKFo2SBjMW9RbmlXRFpFRWZUeGhpdjFHWG44SHFCMkJoYlFVSaFupWxvZ2luo3RpZNkgVTFaT2VacUhpM1V4N1BvTnpsbHdPNXU0eVl2RDRETk2jY2lk2SAyeXQ5SGRGNDVPMDA2SDlxZFBjUDlhczVjZEdibkNXcw&client=2yt9HdF45O006H9qdPcP9as5cdGbnCWs&protocol=oauth2&audience=https://uipath.eu.auth0.com/api/v2/&scope=openid%20profile%20email%20read:current_user%20update:current_user_metadata&redirect_uri=https://cloud.uipath.com/portal_/authCallback&type=signup&platform_name=UiPath%20Platform&subscription_plan=&ecommerceRedirect=false&retryUrl=&product_name=UiPath%20Automation%20Cloud&company_code=B2B_CP&cloudrpa_signup_subdomain=/portal_&register_endpoint=/register&use_local_registration=false&response_type=code&response_mode=query&nonce=SVJYcC5RWlFqdjNYRGdEbjhIZWouUmdVWkhUSVRIMFQ5RmJ4YkxXckMzUA%3D%3D&code_challenge=-Npc4KY4MeCfVXuWhpzLD6AQgNSsgBBpV4PVYgUYUic&code_challenge_method=S256&auth0Client=eyJuYW1lIjoiYXV0aDAtcmVhY3QiLCJ2ZXJzaW9uIjoiMS4yLjAifQ%3D%3D) and download a trial version. (You may need to create an account.)
 
 ## Installation
 
@@ -44,7 +46,7 @@ In theory, You can capture companies as many as possible. I choose 3 companies f
 
 4. Back to Flowchart and open "Excel Process Scope". Edit the "To" path to the location you want to save the file.
 
-5. Pulish this process to your local folder (I recommend publish to the same folder with other files.) You will see a file name which is ended with ".nupkg"
+5. Publish this process to your local folder (I recommend publishing to the same folder with other files.) You will see a file name which is ended with ".nupkg"
 
 6. Run "RUN" on Windows by pressing "Win+R" and search "AppData". Find the    "UiRobot.exe" It should in the "C:\Users\[Your User]\AppData\Local\Programs\UiPath\Studio" Copy the Path.
 
